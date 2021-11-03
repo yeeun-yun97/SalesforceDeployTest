@@ -9,5 +9,13 @@
  */
 public with sharing class NewApexClass {
 
+    public static Integer getZero(){
+        return 0;
+    }
+
+    public static Integer getOne(){
+        return 1;
+    }
+
     //
 }
