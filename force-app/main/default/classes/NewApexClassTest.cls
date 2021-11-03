@@ -14,4 +14,9 @@ public with sharing class NewApexClassTest {
     public static void testcase02(){
         System.assertEquals(1,NewApexClass.getOne());
     }
+
+    @IsTest
+    public static void testcase03(){
+        System.assertEquals(2,NewApexClass.getTwo());
+    }
 }

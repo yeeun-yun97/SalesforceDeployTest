@@ -16,6 +16,9 @@ public with sharing class NewApexClass {
     public static Integer getOne(){
         return 1;
     }
+    public static Integer getTwo(){
+        return 2;
+    }
 
     //
 }
