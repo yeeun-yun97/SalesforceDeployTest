@@ -5,6 +5,7 @@
 /**
  * this class is made for testing scratch orgs.
  * lets see if this could be deployed by scratch org in local environment
+ * and by github push and jenkins! please work pleaseTT
  */
 public with sharing class NewApexClass {
 
